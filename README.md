@@ -7,4 +7,4 @@ Note however that while the simulation results can be reproduced entirely from t
 
 Additionally, the data for the example involving optogenetic control of behavior in flies came from a collaborator and so that data has not been made available and may be available upon reasonable request.
 
-Finally, since the preprint was posted, an independent researcher created a MATLAB based version of this algorithm which can be found here: github.com/jenwallace/Hierarchical_bootstrap_Matlab Additionally, we used a MATLAB implementation of the algorithm for an earlier data paper the code for which can be found here: https://github.com/soberlab/Dopamine_Headphones_Paper_code
+Finally, since the preprint was posted, an independent researcher created a MATLAB based version of this algorithm which can be found here: https://github.com/jenwallace/Hierarchical_bootstrap_Matlab Additionally, we used a MATLAB implementation of the algorithm for an earlier data paper the code for which can be found here: https://github.com/soberlab/Dopamine_Headphones_Paper_code
